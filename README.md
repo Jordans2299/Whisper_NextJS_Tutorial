@@ -1,3 +1,8 @@
+## Tutorial
+https://medium.com/@jordans2299/using-openai-whisper-api-with-next-js-13-8a19dcd0fdbf
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
